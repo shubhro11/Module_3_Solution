@@ -1,0 +1,76 @@
+body {
+    font-size: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: black;
+    background-color: white;
+}
+#header-nav {
+    background-color: #4CAF50;
+    border-radius: 0;
+    border: 0;
+}
+#header-nav button {
+    margin-top: 30px;
+    background: pink;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #8d9463;
+}
+.navbar-collapse {
+    border-top: 0;
+}
+.navbar-brand, .navbar-nav li a {
+    line-height: 75px;
+    height: 75px;
+    padding-top: 0;    
+}
+.navbar-brand h1 {
+    color: white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bold;
+    font-size: 1.9em;    
+}
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 1px black;
+}
+#nav-list {
+    background-color: ;
+}
+
+#nav-list a {
+    font-weight: bolder;
+    color: white;
+    font-size: 1.5em;
+}
+#nav-list a:hover {
+    color: black;
+    background-color: white;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 2px;
+    border-color: black;
+}
+#main-content {
+    width: 98%;
+    margin-bottom: 40px;
+}
+#main-content h2 {
+    font-size: 3.0em;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 48px;
+}
+#main-content h3 {
+    font-size: 1.9em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+#tile1, #tile2, #tile3 {
+    color: white;
+    width: 100%;
+    padding: 20px 20px 20px 20px;
+    background-color: #4CAF50;
+    margin-bottom: 25px;
+    
+}
